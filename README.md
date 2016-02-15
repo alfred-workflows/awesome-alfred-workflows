@@ -26,7 +26,7 @@ A curated list of Awesome Alfred Workflows.
 
 # Miscellaneous
 - [IncognitoClone](http://www.packal.org/workflow/incognitoclone) - Opens Chrome’s frontmost tab in an incognito window.
-- [WebSCreenshot](http://www.packal.org/workflow/webscreenshot) - Take screenshots directly to imgur.
+- [WebScreenshot](http://www.packal.org/workflow/webscreenshot) - Take screenshots directly to imgur.
 
 # Security
 - [LastPass Vault Manager](A workflow to interact with a LastPass vault) - A workflow to interact with a LastPass vault.
