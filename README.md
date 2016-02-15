@@ -44,3 +44,14 @@ Here are a list of other collections of alfred collections which are useful.
 
 - [Ctwise Alfred Workflows](https://github.com/ctwise/alfred-workflows) - Workflows from the Github user "ctwise".
 - [Vitgorgalveo Alfred Workflows](https://github.com/vitorgalvao/alfred-workflows/) - Workflows from the Github user "vitorgalvao".
+
+# Contributing
+[See the guide](https://github.com/derimagia/awesome-alfred-workflows/blob/master/CONTRIBUTING.md)
+
+# License
+<a rel="license" href="http://creativecommons.org/publicdomain/mark/1.0/">
+<img src="https://licensebuttons.net/p/mark/1.0/88x31.png"
+     style="border-style: none;" alt="Public Domain Mark" />
+</a>
+
+To the extent possible under law, [David Wikoff](https://github.com/derimagia) has waived all copyright and related or neighboring rights to this work.
