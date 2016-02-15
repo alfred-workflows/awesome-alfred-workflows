@@ -39,8 +39,8 @@ A curated list of Awesome Alfred Workflows.
 - [Network Info](http://www.packal.org/workflow/network-info) -  Display ip addresses or mac addresses for all network interfaces.
 - [Menu Bar Search](http://www.packal.org/workflow/menu-bar-search) - Search for and activate application menu items for the frontmost application.
 
+# Other Lists
 Here are a list of other collections of alfred collections which are useful.
 
-# Other Lists
 - [Ctwise Alfred Workflows](https://github.com/ctwise/alfred-workflows) - Workflows from the Github user "ctwise".
 - [Vitgorgalveo Alfred Workflows](https://github.com/vitorgalvao/alfred-workflows/) - Workflows from the Github user "vitorgalvao".
