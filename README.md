@@ -31,7 +31,7 @@ A curated list of Awesome Alfred Workflows.
 - [WebScreenshot](http://www.packal.org/workflow/webscreenshot) - Take screenshots directly to imgur.
 
 # Security
-- [LastPass Vault Manager](A workflow to interact with a LastPass vault) - A workflow to interact with a LastPass vault.
+- [LastPass Vault Manager](https://github.com/derimagia/awesome-alfred-workflows/) - A workflow to interact with a LastPass vault.
 - [TemporaryEmail](http://www.packal.org/workflow/temporaryemail) - Get a temporary email inbox from Teleosaurs Mail.
 - [TerminalFinder](https://github.com/LeEnno/alfred-terminalfinder) - Alfred workflow to open current Finder window in Terminal/iTerm and vice versa.
 
