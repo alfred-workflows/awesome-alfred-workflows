@@ -28,6 +28,7 @@ A curated list of Awesome Alfred Workflows.
 
 ## Text Manipulation
 - [Encode / Decode](https://github.com/willfarrell/alfred-encode-decode-workflow) - Transform your query strings through base64, html, url, and utf-8 encode/decode.
+- [Funnel](http://www.packal.org/workflow/funnel) - Funnel selected text or a file through various filters.
 - [HTML Entity Lookup](https://github.com/ajgon/alfred2-html-entity-lookup) - Search for entity characters based on how they look or by name.
 - [Unicode Text Search](https://github.com/bevesce/unicode-symbols-search) - Search for Unicode Symbols
 
@@ -42,7 +43,6 @@ A curated list of Awesome Alfred Workflows.
 ## System
 - [AppFreeze](http://www.packal.org/workflow/appfreeze) - Pauses and resumes execution of the frontmost app.
 - [Copy Paths to Clipboard](https://github.com/franzheidl/copy-paths-to-clipboard) - Copy Current File Paths to Clipboard as POSIX, HFS, or File URLs.
-- [Funnel](http://www.packal.org/workflow/funnel) - Funnel selected text or a file through various filters.
 - [Network Info](http://www.packal.org/workflow/network-info) -  Display ip addresses or mac addresses for all network interfaces.
 - [Menu Bar Search](http://www.packal.org/workflow/menu-bar-search) - Search for and activate application menu items for the frontmost application.
 - [TerminalFinder](https://github.com/LeEnno/alfred-terminalfinder) - Alfred workflow to open current Finder window in Terminal/iTerm and vice versa.
