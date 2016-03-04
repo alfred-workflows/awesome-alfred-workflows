@@ -21,6 +21,7 @@ A curated list of Awesome Alfred Workflows.
 - [Dash](https://kapeli.com/dash) - Include in App. Allows you to query Dash for Developer Documentation.
 - [Encode / Decode](https://github.com/willfarrell/alfred-encode-decode-workflow) - Transform your query strings through base64, html, url, and utf-8 encode/decode.
 - [Font Awesome](https://github.com/ruedap/alfred2-font-awesome-workflow) - Quickly look up font awesome icons and add the desired one to your clipboard.
+- [Github] (https://github.com/gharlan/alfred-github-workflow) - GitHub command bar, similiar to the command bar in Github.
 - [HTML Entity Lookup](https://github.com/ajgon/alfred2-html-entity-lookup) - Search for entity characters based on how they look or by name.
 - [JetBrains](https://github.com/bchatard/jetbrains-alfred-workflow) - Open project with one of JetBrains' product.
 - [Package Managers](https://github.com/willfarrell/alfred-pkgman-workflow) - Package Repo Search.
