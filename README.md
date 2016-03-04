@@ -6,6 +6,7 @@ A curated list of Awesome Alfred Workflows.
 - [Communication](#communication)
 - [Developer](#developer)
 - [Text manipulation](#text-manipulation)
+- [Scientific](#scientific)
 - [Miscellaneous](#miscellaneous)
 - [Security](#security)
 - [System](#system)
@@ -32,6 +33,10 @@ A curated list of Awesome Alfred Workflows.
 - [Funnel](http://www.packal.org/workflow/funnel) - Funnel selected text or a file through various filters.
 - [HTML Entity Lookup](https://github.com/ajgon/alfred2-html-entity-lookup) - Search for entity characters based on how they look or by name.
 - [Unicode Text Search](https://github.com/bevesce/unicode-symbols-search) - Search for Unicode Symbols
+
+## Scientific
+- [Alfred Scientific Workflow](https://github.com/andrewning/alfred-workflows-scientific) - Workflows that are useful for scientists: e.g. LaTeX, importing references in bibtex, ...
+
 
 ## Miscellaneous
 - [IncognitoClone](http://www.packal.org/workflow/incognitoclone) - Opens Chrome’s frontmost tab in an incognito window.
