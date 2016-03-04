@@ -38,7 +38,6 @@ A curated list of Awesome Alfred Workflows.
 ## Security
 - [LastPass Vault Manager](https://github.com/bachya/lp-vault-manager) - A workflow to interact with a LastPass vault.
 - [TemporaryEmail](http://www.packal.org/workflow/temporaryemail) - Get a temporary email inbox from Teleosaurs Mail.
-- [TerminalFinder](https://github.com/LeEnno/alfred-terminalfinder) - Alfred workflow to open current Finder window in Terminal/iTerm and vice versa.
 
 ## System
 - [AppFreeze](http://www.packal.org/workflow/appfreeze) - Pauses and resumes execution of the frontmost app.
@@ -46,6 +45,7 @@ A curated list of Awesome Alfred Workflows.
 - [Funnel](http://www.packal.org/workflow/funnel) - Funnel selected text or a file through various filters.
 - [Network Info](http://www.packal.org/workflow/network-info) -  Display ip addresses or mac addresses for all network interfaces.
 - [Menu Bar Search](http://www.packal.org/workflow/menu-bar-search) - Search for and activate application menu items for the frontmost application.
+- [TerminalFinder](https://github.com/LeEnno/alfred-terminalfinder) - Alfred workflow to open current Finder window in Terminal/iTerm and vice versa.
 
 ## Other Lists
 Here are a list of other collections of alfred collections which are useful.
