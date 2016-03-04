@@ -5,6 +5,7 @@ A curated list of Awesome Alfred Workflows.
 ## Table of Contents
 - [Communication](#communication)
 - [Developer](#developer)
+- [Text manipulation](#text-manipulation)
 - [Miscellaneous](#miscellaneous)
 - [Security](#security)
 - [System](#system)
