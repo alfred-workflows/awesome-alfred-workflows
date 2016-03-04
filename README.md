@@ -63,6 +63,7 @@ Here are a list of other collections of alfred collections which are useful.
 - [Ctwise Alfred Workflows](https://github.com/ctwise/alfred-workflows) - Workflows from the Github user "ctwise".
 - [Packal](http://www.packal.org/) - The biggest place to find Workflows.
 - [Vítor Galvão’s Alfred Workflows](https://github.com/vitorgalvao/alfred-workflows/) - Workflows from the Github user "vitorgalvao".
+- [AlfredWorkflow.com](http://alfredworkflow.com) - List of Alfred Workflows.
 
 ## Contributing
 [See the guide](https://github.com/derimagia/awesome-alfred-workflows/blob/master/CONTRIBUTING.md)
