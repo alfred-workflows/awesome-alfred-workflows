@@ -48,6 +48,7 @@ A curated list of Awesome Alfred Workflows.
 ## Security
 - [LastPass Vault Manager](https://github.com/bachya/lp-vault-manager) - A workflow to interact with a LastPass vault.
 - [TemporaryEmail](http://www.packal.org/workflow/temporaryemail) - Get a temporary email inbox from Teleosaurs Mail.
+- [Random MAC](http://www.packal.org/workflow/random-mac) - Assigns a random MAC address to `en0` (e.g. for free wifi).
 
 ## System
 - [AppFreeze](http://www.packal.org/workflow/appfreeze) - Pauses and resumes execution of the frontmost app.
