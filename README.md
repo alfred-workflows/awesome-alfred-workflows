@@ -1,5 +1,4 @@
 <h1 align="center">
-	<br>
 	<img width="594" src="https://cdn.rawgit.com/derimagia/awesome-alfred-workflows/master/media/header.gif" alt="awesome-alfred-workflows">
 	<br>
 </h1>
