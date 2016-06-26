@@ -49,6 +49,7 @@ A curated list of Awesome Alfred Workflows.
 - [IncognitoClone](http://www.packal.org/workflow/incognitoclone) - Opens Chrome’s frontmost tab in an incognito window.
 - [WebScreenshot](http://www.packal.org/workflow/webscreenshot) - Take screenshots directly to imgur.
 - [Emoji Snippet Pack](http://joelcalifa.com/blog/alfred-emoji-snippet-pack/) - Snippet Pack for Emojis
+- [Emoj](https://github.com/sindresorhus/alfred-emoj) - Find relevant emoji from text.
 
 ## Security
 - [LastPass Vault Manager](https://github.com/bachya/lp-vault-manager) - A workflow to interact with a LastPass vault.
