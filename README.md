@@ -13,6 +13,7 @@ A curated list of Awesome Alfred Workflows.
 - [Miscellaneous](#miscellaneous)
 - [Security](#security)
 - [System](#system)
+- [Web](#web)
 - [Other Lists](#other-lists)
 
 ## Communication
