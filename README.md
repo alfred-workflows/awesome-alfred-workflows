@@ -8,11 +8,11 @@ A curated list of Awesome Alfred Workflows.
 ## Table of Contents
 - [Communication](#communication)
 - [Developer](#developer)
-- [Text manipulation](#text-manipulation)
-- [Scientific](#scientific)
 - [Miscellaneous](#miscellaneous)
+- [Scientific](#scientific)
 - [Security](#security)
 - [System](#system)
+- [Text Manipulation](#text-manipulation)
 - [Web](#web)
 - [Other Lists](#other-lists)
 
@@ -26,13 +26,13 @@ A curated list of Awesome Alfred Workflows.
 - [Colors](http://www.packal.org/workflow/colors) - Convert color formats & access the OS X color panel.
 - [Dash](https://kapeli.com/dash) - Include in App. Allows you to query Dash for Developer Documentation.
 - [Font Awesome](https://github.com/ruedap/alfred2-font-awesome-workflow) - Quickly look up font awesome icons and add the desired one to your clipboard.
-- [Github] (https://github.com/gharlan/alfred-github-workflow) - GitHub command bar, similiar to the command bar in Github.
+- [Github](https://github.com/gharlan/alfred-github-workflow) - GitHub command bar, similiar to the command bar in Github.
 - [JetBrains](https://github.com/bchatard/jetbrains-alfred-workflow) - Open project with one of JetBrains' product.
+- [npms](https://github.com/sindresorhus/alfred-npms) - Search for npm packages with [npms.io](https://npms.io).
+- [ng2](https://github.com/SamVerschueren/alfred-ng2) - Search through the [angular.io](https://angular.io) documentation.
 - [Package Managers](https://github.com/willfarrell/alfred-pkgman-workflow) - Package Repo Search.
 - [Source Tree](https://github.com/zhaocai/alfred2-sourcetree-workflow) - Alfred 2 Workflow to list, search, and open Source Tree repositories in Alfred.
 - [VagrantUP](https://github.com/m1keil/alfred-vagrant-workflow) - List and control Vagrant environments with Alfred2.
-- [npms](https://github.com/sindresorhus/alfred-npms) - Search for npm packages with [npms.io](https://npms.io).
-- [ng2](https://github.com/SamVerschueren/alfred-ng2) - Search through the [angular.io](https://angular.io) documentation.
 
 ## Text Manipulation
 - [Encode / Decode](https://github.com/willfarrell/alfred-encode-decode-workflow) - Transform your query strings through base64, html, url, and utf-8 encode/decode.
@@ -49,9 +49,9 @@ A curated list of Awesome Alfred Workflows.
 - [Units](http://designandsuch.com/work/alfred-workflow-units) - Convert between physical units.
 
 ## Miscellaneous
-- [WebScreenshot](http://www.packal.org/workflow/webscreenshot) - Take screenshots directly to imgur.
 - [Emoji Snippet Pack](http://joelcalifa.com/blog/alfred-emoji-snippet-pack/) - Snippet Pack for Emojis
 - [Emoj](https://github.com/sindresorhus/alfred-emoj) - Find relevant emoji from text.
+- [WebScreenshot](http://www.packal.org/workflow/webscreenshot) - Take screenshots directly to imgur.
 
 ## Security
 - [LastPass Vault Manager](https://github.com/bachya/lp-vault-manager) - A workflow to interact with a LastPass vault.
@@ -66,9 +66,9 @@ A curated list of Awesome Alfred Workflows.
 - [TerminalFinder](https://github.com/LeEnno/alfred-terminalfinder) - Alfred workflow to open current Finder window in Terminal/iTerm and vice versa.
 
 ## Web
+- [BugNot](http://www.packal.org/workflow/bugnot) - Get logins from bugmenot.
 - [IncognitoClone](http://www.packal.org/workflow/incognitoclone) - Opens Chrome’s frontmost tab in an incognito window.
 - [TemporaryEmail](http://www.packal.org/workflow/temporaryemail) - Get a temporary email inbox from Teleosaurs Mail.
-- [BugNot](http://www.packal.org/workflow/bugnot) - Get logins from bugmenot.
 
 ## Other Lists
 Here are a list of other collections of alfred collections which are useful.
