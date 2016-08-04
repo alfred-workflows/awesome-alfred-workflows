@@ -8,6 +8,7 @@ A curated list of Awesome Alfred Workflows.
 ## Table of Contents
 - [Communication](#communication)
 - [Developer](#developer)
+- [Helpers](#helpers)
 - [Miscellaneous](#miscellaneous)
 - [Scientific](#scientific)
 - [Security](#security)
@@ -69,6 +70,12 @@ A curated list of Awesome Alfred Workflows.
 - [BugNot](http://www.packal.org/workflow/bugnot) - Get logins from bugmenot.
 - [IncognitoClone](http://www.packal.org/workflow/incognitoclone) - Opens Chrome’s frontmost tab in an incognito window.
 - [TemporaryEmail](http://www.packal.org/workflow/temporaryemail) - Get a temporary email inbox from Teleosaurs Mail.
+
+## Helpers
+- [Alfy](https://github.com/sindresorhus/alfy) - NodeJS library to create Alfred workflows with ease.
+- [Alfred-Workflow](https://github.com/deanishe/alfred-workflow) - Python LIbrary for for writing Alfred 2 workflows.
+- [OneUpdater](http://www.alfredforum.com/topic/9224-oneupdater-%E2%80%94-update-workflows-with-a-single-node/) - Minimal Configuration method in adding auto-updating to your workflow.
+- [Packal Updater](http://www.packal.org/workflow/packal-updater) - Method to update workflows downloaded from Packal.
 
 ## Other Lists
 Here are a list of other collections of alfred collections which are useful.
