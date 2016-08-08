@@ -29,6 +29,7 @@ A curated list of Awesome Alfred Workflows.
 - [Font Awesome](https://github.com/ruedap/alfred2-font-awesome-workflow) - Quickly look up font awesome icons and add the desired one to your clipboard.
 - [Github](https://github.com/gharlan/alfred-github-workflow) - GitHub command bar, similiar to the command bar in Github.
 - [JetBrains](https://github.com/bchatard/jetbrains-alfred-workflow) - Open project with one of JetBrains' product.
+- [mdi](https://github.com/importre/alfred-mdi) - Find [Material Design Icons](https://github.com/google/material-design-icons).
 - [npms](https://github.com/sindresorhus/alfred-npms) - Search for npm packages with [npms.io](https://npms.io).
 - [ng2](https://github.com/SamVerschueren/alfred-ng2) - Search through the [angular.io](https://angular.io) documentation.
 - [Package Managers](https://github.com/willfarrell/alfred-pkgman-workflow) - Package Repo Search.
