@@ -25,6 +25,7 @@ A curated list of Awesome Alfred Workflows.
 - [caniuse](https://github.com/willfarrell/alfred-caniuse-workflow) - Caniuse.com workflow to query HTML / CSS support.
 - [CDN](https://github.com/willfarrell/alfred-cdn-workflow) - Check which CDNs a package is hosted on.
 - [Colors](http://www.packal.org/workflow/colors) - Convert color formats & access the OS X color panel.
+- [Composer](https://github.com/vinkla/alfred-composer) - Search for [Composer](https://getcomposer.org/) packages with [Packagist](https://packagist.org/).
 - [Dash](https://kapeli.com/dash) - Include in App. Allows you to query Dash for Developer Documentation.
 - [Font Awesome](https://github.com/ruedap/alfred2-font-awesome-workflow) - Quickly look up font awesome icons and add the desired one to your clipboard.
 - [Github](https://github.com/gharlan/alfred-github-workflow) - GitHub command bar, similiar to the command bar in Github.
