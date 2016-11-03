@@ -3,7 +3,7 @@
 	<br>
 </h1>
 
-A curated list of Awesome Alfred Workflows.
+A curated list of Awesome Alfred Workflows. Alfred is a productivity application for Mac OS X, which boosts your efficiency with hotkeys, keywords and text expansion. Workflows are a powerful feature of Alfred which expands what it is capable of.
 
 [![Awesome](https://cdn.rawgit.com/sindresorhus/awesome/d7305f38d29fed78fa85652e3a63e154dd8e8829/media/badge.svg)](https://github.com/sindresorhus/awesome)
 
@@ -68,7 +68,7 @@ A curated list of Awesome Alfred Workflows.
 - [Finder New item](https://github.com/danielbayley/alfred-finder-new-item) - Swiftly create new items in Finder with support for templates.
 - [Keylue](https://github.com/zhaocai/alfred2-keylue-workflow) - Key Clue, Menu Bar and Keyboard Maestro Hot Key Search
 - [Network Info](http://www.packal.org/workflow/network-info) -  Display ip addresses or mac addresses for all network interfaces.
-- [SSH](https://github.com/isometry/alfredworkflows/tree/master/net.isometry.alfred.ssh) - Autocompletes SSH sessions based on `~/.ssh/known_hosts`, `~/.ssh/config` and `/etc/hosts`
+- [SSH](https://github.com/isometry/alfredworkflows/) - Autocompletes SSH sessions based on `~/.ssh/known_hosts`, `~/.ssh/config` and `/etc/hosts`
 - [TerminalFinder](https://github.com/LeEnno/alfred-terminalfinder) - Alfred workflow to open current Finder window in Terminal/iTerm and vice versa.
 
 ## Web
@@ -77,7 +77,7 @@ A curated list of Awesome Alfred Workflows.
 - [TemporaryEmail](http://www.packal.org/workflow/temporaryemail) - Get a temporary email inbox from Teleosaurs Mail.
 
 ## Helpers
-- [Alfy](https://github.com/sindresorhus/alfy) - NodeJS library to create Alfred workflows with ease.
+- [Alfy](https://github.com/sindresorhus/alfy) - Node.JS library to create Alfred workflows with ease.
 - [Alfred-Workflow](https://github.com/deanishe/alfred-workflow) - Python LIbrary for for writing Alfred 2 workflows.
 - [OneUpdater](http://www.alfredforum.com/topic/9224-oneupdater-%E2%80%94-update-workflows-with-a-single-node/) - Minimal Configuration method in adding auto-updating to your workflow.
 - [Packal Updater](http://www.packal.org/workflow/packal-updater) - Method to update workflows downloaded from Packal.
@@ -95,7 +95,7 @@ Here are a list of other collections of alfred collections which are useful.
 
 ## License
 <a rel="license" href="http://creativecommons.org/publicdomain/mark/1.0/">
-<img src="https://licensebuttons.net/p/mark/1.0/88x31.png"
+<img src="http://mirrors.creativecommons.org/presskit/buttons/88x31/svg/cc-zero.svg"
      style="border-style: none;" alt="Public Domain Mark" />
 </a>
 
