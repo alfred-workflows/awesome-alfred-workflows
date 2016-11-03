@@ -3,7 +3,9 @@
 	<br>
 </h1>
 
-A curated list of Awesome Alfred Workflows. Alfred is a productivity application for Mac OS X, which boosts your efficiency with hotkeys, keywords and text expansion. Workflows are a powerful feature of Alfred which expands what it is capable of.
+A curated list of Awesome Alfred Workflows. 
+
+Alfred is a productivity application for Mac OS X, which boosts your efficiency with hotkeys, keywords and text expansion. Workflows are a powerful feature of Alfred which expands what it is capable of.
 
 [![Awesome](https://cdn.rawgit.com/sindresorhus/awesome/d7305f38d29fed78fa85652e3a63e154dd8e8829/media/badge.svg)](https://github.com/sindresorhus/awesome)
 
