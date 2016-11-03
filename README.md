@@ -5,7 +5,7 @@
 
 A curated list of Awesome Alfred Workflows. 
 
-Workflows for Alfred, the productivity application for Mac OS X that boosts your efficiency with hotkeys, keywords and text expansion.
+[Alfred](https://www.alfredapp.com/) is a productivity app for macOS that boosts your efficiency with hotkeys, keywords and text expansion.
 
 [![Awesome](https://cdn.rawgit.com/sindresorhus/awesome/d7305f38d29fed78fa85652e3a63e154dd8e8829/media/badge.svg)](https://github.com/sindresorhus/awesome)
 
@@ -79,7 +79,7 @@ Workflows for Alfred, the productivity application for Mac OS X that boosts your
 - [TemporaryEmail](http://www.packal.org/workflow/temporaryemail) - Get a temporary email inbox from Teleosaurs Mail.
 
 ## Helpers
-- [Alfy](https://github.com/sindresorhus/alfy) - Node.JS library to create Alfred workflows with ease.
+- [Alfy](https://github.com/sindresorhus/alfy) - Node.js library to create Alfred workflows with ease.
 - [Alfred-Workflow](https://github.com/deanishe/alfred-workflow) - Python LIbrary for for writing Alfred 2 workflows.
 - [OneUpdater](http://www.alfredforum.com/topic/9224-oneupdater-%E2%80%94-update-workflows-with-a-single-node/) - Minimal Configuration method in adding auto-updating to your workflow.
 - [Packal Updater](http://www.packal.org/workflow/packal-updater) - Method to update workflows downloaded from Packal.
