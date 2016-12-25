@@ -3,7 +3,7 @@
 	<br>
 </h1>
 
-A curated list of Awesome Alfred Workflows. 
+A curated list of Awesome Alfred Workflows.
 
 [Alfred](https://www.alfredapp.com/) is a productivity app for macOS that boosts your efficiency with hotkeys, keywords and text expansion.
 
@@ -72,6 +72,7 @@ A curated list of Awesome Alfred Workflows.
 - [Network Info](http://www.packal.org/workflow/network-info) -  Display ip addresses or mac addresses for all network interfaces.
 - [SSH](https://github.com/isometry/alfred-ssh/) - Autocompletes SSH sessions based on `~/.ssh/known_hosts`, `~/.ssh/config` and `/etc/hosts`
 - [TerminalFinder](https://github.com/LeEnno/alfred-terminalfinder) - Alfred workflow to open current Finder window in Terminal/iTerm and vice versa.
+- [Alfred Maestro](https://github.com/iansinnott/alfred-maestro) - Execute Keyboard Maestro macros from Alfred.
 
 ## Web
 - [BugNot](http://www.packal.org/workflow/bugnot) - Get logins from bugmenot.
