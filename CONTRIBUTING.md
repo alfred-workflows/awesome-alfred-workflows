@@ -5,6 +5,7 @@ Please ensure your pull request adheres to the following guidelines:
 - Search previous suggestions before making a new one, as yours may be a duplicate.
 - Make an individual pull request for each suggestion if possible.
 - Use the following format: `[WORKFLOW](LINK) - DESCRIPTION.`
+- If "Alfred" is in the title, try to remove the word. E.G. Instead of "Alfred SSH" just put "SSH".
 - New categories, or improvements to the existing categorization are welcome.
 - Keep descriptions short and simple, but descriptive.
 - End all descriptions with a full stop/period.
