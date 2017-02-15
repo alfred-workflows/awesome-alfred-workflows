@@ -36,7 +36,7 @@ A curated list of Awesome Alfred Workflows.
 - [JetBrains](https://github.com/bchatard/jetbrains-alfred-workflow) - Open project with one of JetBrains' product.
 - [mdi](https://github.com/importre/alfred-mdi) - Find [Material Design Icons](https://github.com/google/material-design-icons).
 - [npms](https://github.com/sindresorhus/alfred-npms) - Search for npm packages with [npms.io](https://npms.io).
-- [ng2](https://github.com/SamVerschueren/alfred-ng2) - Search through the [angular.io](https://angular.io) documentation.
+- [ng](https://github.com/SamVerschueren/alfred-ng) - Search through the [angular.io](https://angular.io) documentation.
 - [Package Managers](https://github.com/willfarrell/alfred-pkgman-workflow) - Package Repo Search.
 - [Source Tree](https://github.com/zhaocai/alfred2-sourcetree-workflow) - Alfred 2 Workflow to list, search, and open Source Tree repositories in Alfred.
 - [VagrantUP](https://github.com/m1keil/alfred-vagrant-workflow) - List and control Vagrant environments with Alfred2.
