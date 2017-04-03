@@ -33,7 +33,7 @@ A curated list of Awesome Alfred Workflows.
 - [Dash](https://kapeli.com/dash) - Include in App. Allows you to query Dash for Developer Documentation.
 - [Font Awesome](https://github.com/ruedap/alfred2-font-awesome-workflow) - Quickly look up font awesome icons and add the desired one to your clipboard.
 - [Github](https://github.com/gharlan/alfred-github-workflow) - GitHub command bar, similiar to the command bar in Github.
-- [JetBrains](https://github.com/bchatard/jetbrains-alfred-workflow) - Open project with one of JetBrains' product.
+- [JetBrains](https://github.com/bchatard/jetbrains-alfred-workflow) - Open project with one of JetBrains' products.
 - [Laravel Forge](https://github.com/vmitchell85/alforge) - alForge, Open and run commands on Laravel Forge.
 - [mdi](https://github.com/importre/alfred-mdi) - Find [Material Design Icons](https://github.com/google/material-design-icons).
 - [npms](https://github.com/sindresorhus/alfred-npms) - Search for npm packages with [npms.io](https://npms.io).
@@ -47,17 +47,17 @@ A curated list of Awesome Alfred Workflows.
 - [Funnel](http://www.packal.org/workflow/funnel) - Funnel selected text or a file through various filters.
 - [hl](https://github.com/importre/alfred-hl) - Syntax highlight code in the clipboard.
 - [HTML Entity Lookup](https://github.com/ajgon/alfred2-html-entity-lookup) - Search for entity characters based on how they look or by name.
-- [Pandoctor](https://github.com/smargh/alfred_pandoctor) - Alfred interface to [pandoc](http://pandoc.org), a tool that allows to convert between text formats (Markdown, LaTeX, DOC, DOCX, ...)
+- [Pandoctor](https://github.com/smargh/alfred_pandoctor) - Alfred interface to [pandoc](http://pandoc.org), a tool that allows to convert between text formats (Markdown, LaTeX, DOC, DOCX, ...).
 - [Unicode Text Search](https://github.com/bevesce/unicode-symbols-search) - Search for Unicode Symbols.
 
 ## Scientific
 - [DOITools](https://github.com/hbuschme/doi-tools-alfred-workflow/) - Tools to resolve, open, shorten DOI numbers and even convert them to bibtex.
-- [Scientific Workflow](https://github.com/andrewning/alfred-workflows-scientific) - Workflows that are useful for scientists: e.g. LaTeX, importing references in bibtex, ...
+- [Scientific Workflow](https://github.com/andrewning/alfred-workflows-scientific) - Workflows that are useful for scientists: e.g. LaTeX, importing references in bibtex.
 - [Skim remote](http://www.packal.org/workflow/skim-remote) - Controls the [Skim PDF Viewer](http://skim-app.sourceforge.net) remotely from Alfred.
 - [Units](http://designandsuch.com/work/alfred-workflow-units) - Convert between physical units.
 
 ## Miscellaneous
-- [Emoji Snippet Pack](http://joelcalifa.com/blog/alfred-emoji-snippet-pack/) - Snippet Pack for Emojis
+- [Emoji Snippet Pack](http://joelcalifa.com/blog/alfred-emoji-snippet-pack/) - Snippet Pack for Emojis.
 - [Emoj](https://github.com/sindresorhus/alfred-emoj) - Find relevant emoji from text.
 - [WebScreenshot](http://www.packal.org/workflow/webscreenshot) - Take screenshots directly to imgur.
 
