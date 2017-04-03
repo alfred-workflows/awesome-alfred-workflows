@@ -81,6 +81,7 @@ A curated list of Awesome Alfred Workflows.
 - [BugNot](http://www.packal.org/workflow/bugnot) - Get logins from bugmenot.
 - [IncognitoClone](http://www.packal.org/workflow/incognitoclone) - Opens Chrome’s frontmost tab in an incognito window.
 - [TemporaryEmail](http://www.packal.org/workflow/temporaryemail) - Get a temporary email inbox from Teleosaurs Mail.
+- [lmgtfy](https://github.com/vinkla/alfred-lmgtfy) - A let me Google that for you link generator.
 
 ## Helpers
 - [Alfy](https://github.com/sindresorhus/alfy) - Node.js library to create Alfred workflows with ease.
