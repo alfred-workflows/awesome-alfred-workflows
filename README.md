@@ -40,6 +40,7 @@ A curated list of Awesome Alfred Workflows.
 - [npms](https://github.com/sindresorhus/alfred-npms) - Search for npm packages with [npms.io](https://npms.io).
 - [ng](https://github.com/SamVerschueren/alfred-ng) - Search through the [angular.io](https://angular.io) documentation.
 - [Package Managers](https://github.com/willfarrell/alfred-pkgman-workflow) - Package Repo Search.
+- [rxjs](https://github.com/SamVerschueren/alfred-rxjs) - Search through the [RxJS](http://reactivex.io/rxjs) documentation.
 - [Source Tree](https://github.com/zhaocai/alfred2-sourcetree-workflow) - Alfred 2 Workflow to list, search, and open Source Tree repositories in Alfred.
 - [VagrantUP](https://github.com/m1keil/alfred-vagrant-workflow) - List and control Vagrant environments with Alfred2.
 
