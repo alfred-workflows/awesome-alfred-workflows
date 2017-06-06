@@ -60,6 +60,7 @@ A curated list of Awesome Alfred Workflows.
 ## Miscellaneous
 - [Emoji Snippet Pack](http://joelcalifa.com/blog/alfred-emoji-snippet-pack/) - Snippet Pack for Emojis.
 - [Emoj](https://github.com/sindresorhus/alfred-emoj) - Find relevant emoji from text.
+- [Kaomoji](https://github.com/vinkla/alfred-kaomoji) - Find relevant kaomoji from text.
 - [WebScreenshot](https://github.com/vitorgalvao/alfred-workflows/tree/master/WebScreenshot) - Take screenshots directly to imgur.
 
 ## Security
