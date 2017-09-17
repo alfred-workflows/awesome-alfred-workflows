@@ -88,6 +88,7 @@ A curated list of Awesome Alfred Workflows.
 ## Helpers
 - [Alfy](https://github.com/sindresorhus/alfy) - Node.js library to create Alfred workflows with ease.
 - [Alfred-Workflow](https://github.com/deanishe/alfred-workflow) - Python Library for for writing Alfred workflows.
+- [Fuzzy Search](https://github.com/deanishe/alfred-fuzzy) - Add fuzzy search to any Script Filter.
 - [OneUpdater](https://github.com/vitorgalvao/alfred-workflows/tree/master/OneUpdater) - Minimal Configuration method in adding auto-updating to your workflow.
 - [Packal Updater](http://www.packal.org/workflow/packal-updater) - Method to update workflows downloaded from Packal.
 
