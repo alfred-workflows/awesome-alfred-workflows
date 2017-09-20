@@ -58,6 +58,7 @@ A curated list of Awesome Alfred Workflows.
 - [Units](http://designandsuch.com/work/alfred-workflow-units) - Convert between physical units.
 
 ## Miscellaneous
+- [Alfred PDF Tools](https://github.com/xilopaint/alfred-pdf-tools) - Optimize, encrypt and manipulate PDF files.
 - [Emoji Snippet Pack](http://joelcalifa.com/blog/alfred-emoji-snippet-pack/) - Snippet Pack for Emojis.
 - [Emoj](https://github.com/sindresorhus/alfred-emoj) - Find relevant emoji from text.
 - [Kaomoji](https://github.com/vinkla/alfred-kaomoji) - Find relevant kaomoji from text.
