@@ -62,7 +62,6 @@ A curated list of Awesome Alfred Workflows.
 - [Emoji Snippet Pack](http://joelcalifa.com/blog/alfred-emoji-snippet-pack/) - Snippet Pack for Emojis.
 - [Emoj](https://github.com/sindresorhus/alfred-emoj) - Find relevant emoji from text.
 - [Kaomoji](https://github.com/vinkla/alfred-kaomoji) - Find relevant kaomoji from text.
-– [Things](https://github.com/xilopaint/alfred-things) - Interact with Things 3 using Alfred.
 - [WebScreenshot](https://github.com/vitorgalvao/alfred-workflows/tree/master/WebScreenshot) - Take screenshots directly to imgur.
 
 ## Security
@@ -98,12 +97,12 @@ A curated list of Awesome Alfred Workflows.
 Here are a list of other collections of alfred collections which are useful.
 
 - [AlfredWorkflow.com](http://alfredworkflow.com) - List of Alfred Workflows.
-- [Ctwise Alfred Workflows](https://github.com/ctwise/alfred-workflows) - Workflows from the GitHub user "ctwise".
+- [Ctwise Alfred Workflows](https://github.com/ctwise/alfred-workflows) - Workflows from the Github user "ctwise".
 - [Packal](http://www.packal.org/) - The biggest place to find Workflows.
-- [Vítor Galvão’s Alfred Workflows](https://github.com/vitorgalvao/alfred-workflows/) - Workflows from the GitHub user "vitorgalvao".
+- [Vítor Galvão’s Alfred Workflows](https://github.com/vitorgalvao/alfred-workflows/) - Workflows from the Github user "vitorgalvao".
 
 ## Contributing
-[See the guide](https://github.com/derimagia/awesome-alfred-workflows/blob/master/CONTRIBUTING.md).
+[See the guide](https://github.com/derimagia/awesome-alfred-workflows/blob/master/CONTRIBUTING.md)
 
 ## License
 <a rel="license" href="http://creativecommons.org/publicdomain/mark/1.0/">
