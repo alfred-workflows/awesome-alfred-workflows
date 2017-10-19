@@ -77,6 +77,7 @@ A curated list of Awesome Alfred Workflows.
 - [Keyboard Maestro](https://github.com/iansinnott/alfred-maestro) - Execute Keyboard Maestro macros from Alfred.
 - [Keylue](https://github.com/zhaocai/alfred2-keylue-workflow) - Key Clue, Menu Bar and Keyboard Maestro Hot Key Search
 - [Network Info](http://www.packal.org/workflow/network-info) -  Display ip addresses or mac addresses for all network interfaces.
+- [Safari History Search](https://github.com/rx2130/alfred-safari-history-search) - Search Safari browse history from Alfred.
 - [SSH](https://github.com/isometry/alfred-ssh/) - Autocompletes SSH sessions based on `~/.ssh/known_hosts`, `~/.ssh/config` and `/etc/hosts`
 - [Swift Windows Switcher](https://github.com/mandrigin/AlfredSwitchWindows) - Switches between open windows and a browser (Safari/Chrome) tabs.
 - [TemporaryMute](http://www.packal.org/workflow/temporary-mute) - Mutes the volume of their computer for a specified duration of time.
