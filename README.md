@@ -14,6 +14,7 @@ A curated list of Awesome Alfred Workflows.
 - [Developer](#developer)
 - [Helpers](#helpers)
 - [Miscellaneous](#miscellaneous)
+- [Productivity](#productivity)
 - [Scientific](#scientific)
 - [Security](#security)
 - [System](#system)
@@ -57,12 +58,15 @@ A curated list of Awesome Alfred Workflows.
 - [Skim remote](http://www.packal.org/workflow/skim-remote) - Controls the [Skim PDF Viewer](http://skim-app.sourceforge.net) remotely from Alfred.
 - [Units](http://designandsuch.com/work/alfred-workflow-units) - Convert between physical units.
 
+## Productivity
+- [Google Calendar View](https://github.com/deanishe/alfred-gcal) - View your Google Calendar events.
+- [PDF Tools](https://github.com/xilopaint/alfred-pdf-tools) - Optimize, encrypt and manipulate PDF files.
+- [Things](https://github.com/xilopaint/alfred-things) - Interact with Things 3 using Alfred.
+
 ## Miscellaneous
-- [Alfred PDF Tools](https://github.com/xilopaint/alfred-pdf-tools) - Optimize, encrypt and manipulate PDF files.
 - [Emoji Snippet Pack](http://joelcalifa.com/blog/alfred-emoji-snippet-pack/) - Snippet Pack for Emojis.
 - [Emoj](https://github.com/sindresorhus/alfred-emoj) - Find relevant emoji from text.
 - [Kaomoji](https://github.com/vinkla/alfred-kaomoji) - Find relevant kaomoji from text.
-- [Things](https://github.com/xilopaint/alfred-things) - Interact with Things 3 using Alfred.
 - [WebScreenshot](https://github.com/vitorgalvao/alfred-workflows/tree/master/WebScreenshot) - Take screenshots directly to imgur.
 
 ## Security
