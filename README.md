@@ -59,6 +59,7 @@ A curated list of Awesome Alfred Workflows.
 - [Units](http://designandsuch.com/work/alfred-workflow-units) - Convert between physical units.
 
 ## Productivity
+- [Google Calendar View](https://github.com/deanishe/alfred-gcal) - View your Google Calendar events.
 - [PDF Tools](https://github.com/xilopaint/alfred-pdf-tools) - Optimize, encrypt and manipulate PDF files.
 - [Things](https://github.com/xilopaint/alfred-things) - Interact with Things 3 using Alfred.
 
