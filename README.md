@@ -33,6 +33,7 @@ A curated list of Awesome Alfred Workflows.
 - [Colors](http://www.packal.org/workflow/colors) - Convert color formats & access the OS X color panel.
 - [Dash](https://kapeli.com/dash) - Allows you to query Dash for Developer Documentation.
 - [DevDocs](https://github.com/yannickglt/alfred-devdocs) - An Alternative to Dash. Allows you query [devdocs.io](https://devdocs.io/) for documentation.
+- [Fakeum](https://github.com/deanishe/alfred-fakeum) - Generate all kinds of test data.
 - [Font Awesome](https://github.com/ruedap/alfred2-font-awesome-workflow) - Quickly look up font awesome icons and add the desired one to your clipboard.
 - [Github](https://github.com/gharlan/alfred-github-workflow) - GitHub command bar, similiar to the command bar in Github.
 - [Git Repos](https://github.com/deanishe/alfred-repos) - Search and open the Git repos on your system.
