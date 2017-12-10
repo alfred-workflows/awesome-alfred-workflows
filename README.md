@@ -75,6 +75,7 @@ A curated list of Awesome Alfred Workflows.
 
 ## Security
 - [LastPass Vault Manager](https://github.com/bachya/lp-vault-manager) - A workflow to interact with a LastPass vault.
+- [Password Generator](https://github.com/deanishe/alfred-pwgen) - Configurable offline password generator.
 - [Random MAC](http://www.packal.org/workflow/random-mac) - Assigns a random MAC address to `en0` (e.g. for free wifi).
 
 ## System
