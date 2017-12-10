@@ -24,6 +24,7 @@ A curated list of Awesome Alfred Workflows.
 
 ## Communication
 - [Adium](http://www.alfredforum.com/topic/1274-adium-workflow/) - Adium workflow to chat with people on your list.
+- [MailTo](https://github.com/deanishe/alfred-mailto) - Quickly compose emails to your contacts and contact groups.
 - [Slack](https://github.com/fspinillo/slackfred) - Alfred workflow to interact, and perform various functions with the service Slack.
 
 ## Developer
