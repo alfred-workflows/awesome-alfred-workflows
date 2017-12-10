@@ -64,6 +64,7 @@ A curated list of Awesome Alfred Workflows.
 
 ## Productivity
 - [Google Calendar View](https://github.com/deanishe/alfred-gcal) - View your Google Calendar events.
+- [I Sheet You Not](https://github.com/deanishe/i-sheet-you-not) - Generate your own workflows from Excel spreadsheets.
 - [PDF Tools](https://github.com/xilopaint/alfred-pdf-tools) - Optimize, encrypt and manipulate PDF files.
 - [Things](https://github.com/xilopaint/alfred-things) - Interact with Things 3 using Alfred.
 
