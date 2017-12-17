@@ -77,7 +77,7 @@ A curated list of Awesome Alfred Workflows.
 - [LastPass Vault Manager](https://github.com/bachya/lp-vault-manager) - A workflow to interact with a LastPass vault.
 - [Password Generator](https://github.com/deanishe/alfred-pwgen) - Configurable offline password generator.
 - [Random MAC](http://www.packal.org/workflow/random-mac) - Assigns a random MAC address to `en0` (e.g. for free wifi).
-- [Viscosity VPN](https://github.com/deanishe/alfred-viscosity) - Control [Viscosity](https://www.sparklabs.com/viscosity/) VPN connections.
+- [VPN Manager](https://github.com/deanishe/alfred-vpn-manager) - Control [Tunnelblick](https://tunnelblick.net/) and [Viscosity](https://www.sparklabs.com/viscosity/) OpenVPN connections.
 
 ## System
 - [AppFreeze](https://github.com/vitorgalvao/alfred-workflows/tree/master/AppFreeze) - Pauses and resumes execution of the frontmost app.
