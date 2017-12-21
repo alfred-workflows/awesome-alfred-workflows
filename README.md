@@ -14,6 +14,7 @@ A curated list of Awesome Alfred Workflows.
 - [Developer](#developer)
 - [Helpers](#helpers)
 - [Miscellaneous](#miscellaneous)
+- [Multimedia](#multimedia)
 - [Productivity](#productivity)
 - [Scientific](#scientific)
 - [Security](#security)
@@ -73,6 +74,9 @@ A curated list of Awesome Alfred Workflows.
 - [Kaomoji](https://github.com/vinkla/alfred-kaomoji) - Find relevant kaomoji from text.
 - [WebScreenshot](https://github.com/vitorgalvao/alfred-workflows/tree/master/WebScreenshot) - Take screenshots directly to imgur.
 
+## Multimedia
+- [Spotify Mini Player](http://alfred-spotify-mini-player.com) - Take full control of your [Spotify](https://www.spotify.com) library.
+
 ## Security
 - [LastPass Vault Manager](https://github.com/bachya/lp-vault-manager) - A workflow to interact with a LastPass vault.
 - [Password Generator](https://github.com/deanishe/alfred-pwgen) - Configurable offline password generator.
@@ -99,9 +103,6 @@ A curated list of Awesome Alfred Workflows.
 - [Reddit](https://github.com/deanishe/alfred-reddit) - Search and browse subreddits and hot posts within Alfred.
 - [Safari Assistant](https://github.com/deanishe/alfred-safari-assistant) - Browse, open & manipulate Safari bookmarks, history and tabs. Customizable with your own scripts.
 - [TemporaryEmail](https://github.com/vitorgalvao/alfred-workflows/tree/master/TemporaryEmail) - Get a temporary email inbox from Teleosaurs Mail.
-
-## Multimedia
-- [Spotify Mini Player](http://alfred-spotify-mini-player.com) - Take full control of your [Spotify](https://www.spotify.com) library.
 
 ## Helpers
 - [Alfred-Workflow](https://github.com/deanishe/alfred-workflow) - Python Library for writing Alfred workflows.
