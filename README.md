@@ -14,6 +14,7 @@ A curated list of Awesome Alfred Workflows.
 - [Developer](#developer)
 - [Helpers](#helpers)
 - [Miscellaneous](#miscellaneous)
+- [Multimedia](#multimedia)
 - [Productivity](#productivity)
 - [Scientific](#scientific)
 - [Security](#security)
@@ -72,6 +73,9 @@ A curated list of Awesome Alfred Workflows.
 - [Emoj](https://github.com/sindresorhus/alfred-emoj) - Find relevant emoji from text.
 - [Kaomoji](https://github.com/vinkla/alfred-kaomoji) - Find relevant kaomoji from text.
 - [WebScreenshot](https://github.com/vitorgalvao/alfred-workflows/tree/master/WebScreenshot) - Take screenshots directly to imgur.
+
+## Multimedia
+- [Spotify Mini Player](http://alfred-spotify-mini-player.com) - Take full control of your [Spotify](https://www.spotify.com) library.
 
 ## Security
 - [LastPass Vault Manager](https://github.com/bachya/lp-vault-manager) - A workflow to interact with a LastPass vault.
