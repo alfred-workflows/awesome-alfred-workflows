@@ -30,6 +30,7 @@ A curated list of Awesome Alfred Workflows.
 
 ## Developer
 - [caniuse](https://github.com/willfarrell/alfred-caniuse-workflow) - Caniuse.com workflow to query HTML / CSS support.
+- [caniuse](https://github.com/robjtede/alfred-caniuse) - Quickly reference caniuse.com support tables using Alfred 3.
 - [CDN](https://github.com/willfarrell/alfred-cdn-workflow) - Check which CDNs a package is hosted on.
 - [Colors](http://www.packal.org/workflow/colors) - Convert color formats & access the OS X color panel.
 - [Dash](https://kapeli.com/dash) - Allows you to query Dash for Developer Documentation.
