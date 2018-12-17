@@ -95,6 +95,8 @@ A curated list of Awesome Alfred Workflows.
 - [Keylue](https://github.com/zhaocai/alfred2-keylue-workflow) - Key Clue, Menu Bar and Keyboard Maestro Hot Key Search
 - [Network Info](http://www.packal.org/workflow/network-info) -  Display ip addresses or mac addresses for all network interfaces.
 - [SSH](https://github.com/isometry/alfred-ssh/) - Autocompletes SSH sessions based on `~/.ssh/known_hosts`, `~/.ssh/config` and `/etc/hosts`
+- [SSH iTerm](https://github.com/hanjm/alfred-ssh-iterm-workflow) - Query `~/.ssh/config` and open ssh host with iTerm badge.
+- [SSH iTerm] (https://github.com/hanjm/alfred-ssh-iterm-workflow) - Query and open ssh host with iTerm badge.
 - [Swift Windows Switcher](https://github.com/mandrigin/AlfredSwitchWindows) - Switches between open windows and a browser (Safari/Chrome) tabs.
 - [TemporaryMute](http://www.packal.org/workflow/temporary-mute) - Mutes the volume of their computer for a specified duration of time.
 - [TerminalFinder](https://github.com/LeEnno/alfred-terminalfinder) - Alfred workflow to open current Finder window in Terminal/iTerm and vice versa.
