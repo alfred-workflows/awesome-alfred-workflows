@@ -75,6 +75,7 @@ A curated list of Awesome Alfred Workflows.
 - [Lorem Ipsum](https://github.com/raarellano/alfred-lorem-ipsum-workflow) - Generate lorem ipsum(...) text from Alfred.
 - [Kaomoji](https://github.com/vinkla/alfred-kaomoji) - Find relevant kaomoji from text.
 - [WebScreenshot](https://github.com/vitorgalvao/alfred-workflows/tree/master/WebScreenshot) - Take screenshots directly to imgur.
+- [moment](https://github.com/perfectworks/alfred-workflow-moment) - Advanced time utility, inspired by [moment.js](https://momentjs.com).
 
 ## Multimedia
 - [Spotify Mini Player](http://alfred-spotify-mini-player.com) - Take full control of your [Spotify](https://www.spotify.com) library.
