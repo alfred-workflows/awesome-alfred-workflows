@@ -135,7 +135,7 @@ Here is a list of other collections of Alfred resources:
 - [AlfredWorkflow.com](http://alfredworkflow.com) - List of Alfred Workflows.
 - [Ctwise Alfred Workflows](https://github.com/ctwise/alfred-workflows) - Workflows from the GitHub user "ctwise".
 - [Packal](http://www.packal.org/) - The biggest place to find Workflows.
-- [Pacmax](https://pacmax.org) - Pacmax is for Exploring & Sharing Great Alfred Workflows, Snippets & Themes. A successor to Packal.
+- [Pacmax](https://pacmax.org) - Pacmax, a sort of Packal rewrite, is for Exploring & Sharing Great Alfred Workflows, Snippets & Themes.
 - [Vítor Galvão’s Alfred Workflows](https://github.com/vitorgalvao/alfred-workflows/) - Workflows from the GitHub user "vitorgalvao".
 
 ### Contributing
