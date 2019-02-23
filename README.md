@@ -1,5 +1,3 @@
-# Awesome Alfred Workflows
-
 <h1 align="center">
   <img src="/preview.gif" alt="Awesome Alfred Workflows">
 </h1>
