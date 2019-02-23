@@ -139,7 +139,7 @@ Here is a list of other collections of Alfred resources:
 
 ### Contributing
 
-[See the guide.](https://github.com/derimagia/awesome-alfred-workflows/blob/master/CONTRIBUTING.md)
+[See the guide.](/CONTRIBUTING.md)
 
 ### License
 
