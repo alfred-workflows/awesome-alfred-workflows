@@ -2,7 +2,7 @@
 
 <h1 align="center">
   <img src="/preview.gif" alt="Awesome Alfred Workflows">
-</div>
+</h1>
 
 A curated list of Awesome Alfred Workflows.
 
