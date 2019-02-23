@@ -1,6 +1,8 @@
 # Awesome Alfred Workflows
 
-![Awesome Alfred Workflows](preview.gif "Awesome Alfred Workflows")
+<h1 align="center">
+  <img src="/preview.gif" alt="Awesome Alfred Workflows">
+</div>
 
 A curated list of Awesome Alfred Workflows.
 
@@ -12,15 +14,15 @@ A curated list of Awesome Alfred Workflows.
 
 - [Communication](#communication)
 - [Developer](#developer)
-- [Text Manipulation](#text-manipulation)
-- [Scientific](#scientific)
-- [Productivity](#productivity)
+- [Helpers](#helpers)
 - [Miscellaneous](#miscellaneous)
 - [Multimedia](#multimedia)
+- [Productivity](#productivity)
+- [Scientific](#scientific)
 - [Security](#security)
 - [System](#system)
+- [Text Manipulation](#text-manipulation)
 - [Web](#web)
-- [Helpers](#helpers)
 - [Other Lists](#other-lists)
 - [Contributing](#contributing)
 - [License](#license)
@@ -52,28 +54,13 @@ A curated list of Awesome Alfred Workflows.
 - [Source Tree](https://github.com/zhaocai/alfred2-sourcetree-workflow) - List, search, and open Source Tree repositories.
 - [VagrantUP](https://github.com/m1keil/alfred-vagrant-workflow) - List and control Vagrant environments with Alfred2.
 
-### Text Manipulation
+### Helpers
 
-- [Encode / Decode](https://github.com/willfarrell/alfred-encode-decode-workflow) - Transform your query strings through base64, html, url, and utf-8 encode/decode.
-- [Funnel](http://www.packal.org/workflow/funnel) - Funnel selected text or a file through various filters.
-- [hl](https://github.com/importre/alfred-hl) - Syntax highlight code in the clipboard.
-- [HTML Entity Lookup](https://github.com/ajgon/alfred2-html-entity-lookup) - Search for entity characters based on how they look or by name.
-- [Pandoctor](https://github.com/smargh/alfred_pandoctor) - Alfred interface to [pandoc](http://pandoc.org), a tool that allows to convert between text formats (Markdown, LaTeX, DOC, DOCX, ...).
-- [Unicode Text Search](https://github.com/bevesce/unicode-symbols-search) - Search for Unicode Symbols.
-
-### Scientific
-
-- [Convert](https://github.com/deanishe/alfred-convert) - Offline conversion of units and (crypto)currencies.
-- [DOITools](https://github.com/hbuschme/doi-tools-alfred-workflow/) - Tools to resolve, open, shorten DOI numbers and even convert them to bibtex.
-- [Scientific Workflow](https://github.com/andrewning/alfred-workflows-scientific) - Workflows that are useful for scientists: e.g. LaTeX, importing references in bibtex.
-- [Skim remote](http://www.packal.org/workflow/skim-remote) - Controls the [Skim PDF Viewer](http://skim-app.sourceforge.net) remotely from Alfred.
-
-### Productivity
-
-- [Google Calendar View](https://github.com/deanishe/alfred-gcal) - View your Google Calendar events.
-- [I Sheet You Not](https://github.com/deanishe/i-sheet-you-not) - Generate your own workflows from Excel spreadsheets.
-- [PDF Tools](https://github.com/xilopaint/alfred-pdf-tools) - Optimize, encrypt and manipulate PDF files.
-- [Things](https://github.com/xilopaint/alfred-things) - Interact with Things 3 using Alfred.
+- [Alfred-Workflow](https://github.com/deanishe/alfred-workflow) - Python Library for writing Alfred workflows.
+- [Alfy](https://github.com/sindresorhus/alfy) - Node.js library to create Alfred workflows with ease.
+- [AwGo](https://github.com/deanishe/awgo) - Full-featured library for Go to build lightning-fast workflows in a jiffy.
+- [Fuzzy Search](https://github.com/deanishe/alfred-fuzzy) - Add fuzzy search to any Script Filter.
+- [OneUpdater](https://github.com/vitorgalvao/alfred-workflows/tree/master/OneUpdater) - Minimal Configuration method in adding auto-updating to your workflow.
 
 ### Miscellaneous
 
@@ -88,6 +75,20 @@ A curated list of Awesome Alfred Workflows.
 ### Multimedia
 
 - [Spotify Mini Player](http://alfred-spotify-mini-player.com) - Take full control of your [Spotify](https://www.spotify.com) library.
+
+### Productivity
+
+- [Google Calendar View](https://github.com/deanishe/alfred-gcal) - View your Google Calendar events.
+- [I Sheet You Not](https://github.com/deanishe/i-sheet-you-not) - Generate your own workflows from Excel spreadsheets.
+- [PDF Tools](https://github.com/xilopaint/alfred-pdf-tools) - Optimize, encrypt and manipulate PDF files.
+- [Things](https://github.com/xilopaint/alfred-things) - Interact with Things 3 using Alfred.
+
+### Scientific
+
+- [Convert](https://github.com/deanishe/alfred-convert) - Offline conversion of units and (crypto)currencies.
+- [DOITools](https://github.com/hbuschme/doi-tools-alfred-workflow/) - Tools to resolve, open, shorten DOI numbers and even convert them to bibtex.
+- [Scientific Workflow](https://github.com/andrewning/alfred-workflows-scientific) - Workflows that are useful for scientists: e.g. LaTeX, importing references in bibtex.
+- [Skim remote](http://www.packal.org/workflow/skim-remote) - Controls the [Skim PDF Viewer](http://skim-app.sourceforge.net) remotely from Alfred.
 
 ### Security
 
@@ -112,6 +113,15 @@ A curated list of Awesome Alfred Workflows.
 - [TemporaryMute](http://www.packal.org/workflow/temporary-mute) - Mutes the volume of their computer for a specified duration of time.
 - [TerminalFinder](https://github.com/LeEnno/alfred-terminalfinder) - Alfred workflow to open current Finder window in Terminal/iTerm and vice versa.
 
+### Text Manipulation
+
+- [Encode / Decode](https://github.com/willfarrell/alfred-encode-decode-workflow) - Transform your query strings through base64, html, url, and utf-8 encode/decode.
+- [Funnel](http://www.packal.org/workflow/funnel) - Funnel selected text or a file through various filters.
+- [hl](https://github.com/importre/alfred-hl) - Syntax highlight code in the clipboard.
+- [HTML Entity Lookup](https://github.com/ajgon/alfred2-html-entity-lookup) - Search for entity characters based on how they look or by name.
+- [Pandoctor](https://github.com/smargh/alfred_pandoctor) - Alfred interface to [pandoc](http://pandoc.org), a tool that allows to convert between text formats (Markdown, LaTeX, DOC, DOCX, ...).
+- [Unicode Text Search](https://github.com/bevesce/unicode-symbols-search) - Search for Unicode Symbols.
+
 ### Web
 
 - [BugNot](https://github.com/vitorgalvao/alfred-workflows/tree/master/BugNot) - Get logins from bugmenot.
@@ -120,14 +130,6 @@ A curated list of Awesome Alfred Workflows.
 - [Safari Assistant](https://github.com/deanishe/alfred-safari-assistant) - Browse, open & manipulate Safari bookmarks, history and tabs. Customizable with your own scripts.
 - [TemporaryEmail](https://github.com/vitorgalvao/alfred-workflows/tree/master/TemporaryEmail) - Get a temporary email inbox from Teleosaurs Mail.
 
-### Helpers
-
-- [Alfred-Workflow](https://github.com/deanishe/alfred-workflow) - Python Library for writing Alfred workflows.
-- [Alfy](https://github.com/sindresorhus/alfy) - Node.js library to create Alfred workflows with ease.
-- [AwGo](https://github.com/deanishe/awgo) - Full-featured library for Go to build lightning-fast workflows in a jiffy.
-- [Fuzzy Search](https://github.com/deanishe/alfred-fuzzy) - Add fuzzy search to any Script Filter.
-- [OneUpdater](https://github.com/vitorgalvao/alfred-workflows/tree/master/OneUpdater) - Minimal Configuration method in adding auto-updating to your workflow.
-
 ### Other Lists
 
 Here is a list of other collections of Alfred resources:
@@ -135,24 +137,11 @@ Here is a list of other collections of Alfred resources:
 - [AlfredWorkflow.com](http://alfredworkflow.com) - List of Alfred Workflows.
 - [Ctwise Alfred Workflows](https://github.com/ctwise/alfred-workflows) - Workflows from the GitHub user "ctwise".
 - [Packal](http://www.packal.org/) - The biggest place to find Workflows.
-- [Pacmax](https://pacmax.org) - Pacmax, a sort of Packal rewrite, is for Exploring & Sharing Great Alfred Workflows, Snippets & Themes.
 - [Vítor Galvão’s Alfred Workflows](https://github.com/vitorgalvao/alfred-workflows/) - Workflows from the GitHub user "vitorgalvao".
 
 ### Contributing
 
-Please ensure your pull request adheres to the following guidelines:
-
-- Search previous suggestions before making a new one, as yours may be a duplicate.
-- Make an individual pull request for each suggestion if possible.
-- Use the following format: [WORKFLOW](#) - DESCRIPTION.
-- If "Alfred" is in the title, try to remove the word. E.G. Instead of "Alfred SSH" just put "SSH".
-- New categories, or improvements to the existing categorization are welcome.
-- Keep descriptions short and simple, but descriptive.
-- End all descriptions with a full stop/period.
-- Check your spelling and grammar.
-- Use alphabetical order for placing your item in a category.
-- Make sure your text editor is set to remove trailing whitespace.
-- If you are unsure about anything, feel free to open up an issue and we will help you.
+[See the guide.](https://github.com/derimagia/awesome-alfred-workflows/blob/master/CONTRIBUTING.md)
 
 ### License
 
