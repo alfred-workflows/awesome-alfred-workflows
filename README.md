@@ -63,6 +63,7 @@ A curated list of Awesome Alfred Workflows.
 - [Skim remote](http://www.packal.org/workflow/skim-remote) - Controls the [Skim PDF Viewer](http://skim-app.sourceforge.net) remotely from Alfred.
 
 ## Productivity
+- [ClickUp](https://github.com/mschmidtkorth/alfred-clickup-msk) - Add tasks to [ClickUp](http://clickup.com/), search for and complete tasks.
 - [Google Calendar View](https://github.com/deanishe/alfred-gcal) - View your Google Calendar events.
 - [I Sheet You Not](https://github.com/deanishe/i-sheet-you-not) - Generate your own workflows from Excel spreadsheets.
 - [iMessage 2FA](https://github.com/squatto/alfred-imessage-2fa) - Find two-factor authentication codes in your recent iMessage messages.
