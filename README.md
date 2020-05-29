@@ -81,6 +81,7 @@ A curated list of Awesome Alfred Workflows.
 
 ## Multimedia
 - [Spotify Mini Player](http://alfred-spotify-mini-player.com) - Take full control of your [Spotify](https://www.spotify.com) library.
+- [Metacritic](https://github.com/simeg/alfred-workflow-metacritic) - Search [Metacritic](https://www.metacritic.com/).
 
 ## Security
 - [LastPass Vault Manager](https://github.com/bachya/lp-vault-manager) - A workflow to interact with a LastPass vault.
