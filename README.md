@@ -68,6 +68,7 @@ A curated list of Awesome Alfred Workflows.
 - [iMessage 2FA](https://github.com/squatto/alfred-imessage-2fa) - Find two-factor authentication codes in your recent iMessage messages.
 - [PDF Tools](https://github.com/xilopaint/alfred-pdf-tools) - Optimize, encrypt and manipulate PDF files.
 - [Things](https://github.com/xilopaint/alfred-things) - Interact with Things 3 using Alfred.
+- [Timing](https://github.com/skibitsky/alfred-timing) - Alfred workflow for [Timing app](https://timingapp.com/).
 - [Todoist](https://github.com/moranje/alfred-workflow-todoist) - Add tasks to Todoist.
 
 ## Miscellaneous
