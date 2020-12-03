@@ -69,6 +69,8 @@ A curated list of Awesome Alfred Workflows.
 - [PDF Tools](https://github.com/xilopaint/alfred-pdf-tools) - Optimize, encrypt and manipulate PDF files.
 - [Things](https://github.com/xilopaint/alfred-things) - Interact with Things 3 using Alfred.
 - [Todoist](https://github.com/moranje/alfred-workflow-todoist) - Add tasks to Todoist.
+- [Hue Timer](https://github.com/fatih-yavuz/alfred-timer-workflow) - Start a timer, which blinks the lights when the time is up.
+
 
 ## Miscellaneous
 - [Emoji Snippet Pack](http://joelcalifa.com/blog/alfred-emoji-snippet-pack/) - Snippet Pack for Emojis.
