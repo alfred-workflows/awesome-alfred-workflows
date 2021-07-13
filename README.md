@@ -29,6 +29,7 @@ A curated list of Awesome Alfred Workflows.
 - [Slack](https://github.com/fspinillo/slackfred) - Alfred workflow to interact, and perform various functions with the service Slack.
 
 ## Developer
+- [AWS Console Services](https://github.com/rkoval/alfred-aws-console-services-workflow) - Quickly open up AWS Console Services in your browser or search for entities within them.
 - [caniuse](https://github.com/willfarrell/alfred-caniuse-workflow) - Caniuse.com workflow to query HTML / CSS support.
 - [CDN](https://github.com/willfarrell/alfred-cdn-workflow) - Check which CDNs a package is hosted on.
 - [Colors](http://www.packal.org/workflow/colors) - Convert color formats & access the OS X color panel.
