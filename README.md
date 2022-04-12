@@ -125,6 +125,7 @@ Here are a list of other collections of alfred collections which are useful.
 - [AlfredWorkflow.com](http://alfredworkflow.com) - List of Alfred Workflows.
 - [Ctwise Alfred Workflows](https://github.com/ctwise/alfred-workflows) - Workflows from the Github user "ctwise".
 - [Packal](http://www.packal.org/) - The biggest place to find Workflows.
+- [PacMax](https://pacmax.org/) – Pacmax was assembled as a way for Alfred lovers to find and share their favorite workflows, snippets, and themes.
 - [Vítor Galvão’s Alfred Workflows](https://github.com/vitorgalvao/alfred-workflows/) - Workflows from the Github user "vitorgalvao".
 
 ## Contributing
@@ -137,3 +138,5 @@ Here are a list of other collections of alfred collections which are useful.
 </a>
 
 To the extent possible under law, [David Wikoff](https://github.com/derimagia) has waived all copyright and related or neighboring rights to this work.
+
+To the extent possible under law, [Daniel Pittman (SlippyCheeze)](https://github.com/slippycheeze) has waived all copyright and related or neighboring rights to this work.
