@@ -52,7 +52,7 @@ A curated list of Awesome Alfred Workflows.
 - [Packagist](https://github.com/vinkla/alfred-packagist) - Search for PHP packages with [Packagist](https://packagist.org).
 - [Source Tree](https://github.com/zhaocai/alfred2-sourcetree-workflow) - List, search, and open Source Tree repositories.
 - [VagrantUP](https://github.com/m1keil/alfred-vagrant-workflow) - List and control Vagrant environments with Alfred2.
-- [VSCode] (https://github.com/alexchantastic/alfred-open-with-vscode-workflow) - An Alfred 4 workflow opening files or folders with Visual Studio Code.
+- [VSCode](https://github.com/alexchantastic/alfred-open-with-vscode-workflow) - An Alfred 4 workflow opening files or folders with Visual Studio Code.
 
 ## Text Manipulation
 - [Encode / Decode](https://github.com/willfarrell/alfred-encode-decode-workflow) - Transform your query strings through base64, html, url, and utf-8 encode/decode.
@@ -61,6 +61,7 @@ A curated list of Awesome Alfred Workflows.
 - [HTML Entity Lookup](https://github.com/ajgon/alfred2-html-entity-lookup) - Search for entity characters based on how they look or by name.
 - [Pandoctor](https://github.com/smargh/alfred_pandoctor) - Alfred interface to [pandoc](http://pandoc.org), a tool that allows to convert between text formats (Markdown, LaTeX, DOC, DOCX, ...).
 - [Unicode Text Search](https://github.com/bevesce/unicode-symbols-search) - Search for Unicode Symbols.
+- [VSCodeDiff](https://github.com/logicxd/alfred-vscodediff) - Show the diff of the last 2 items in clipboard history using VSCode.
 
 ## Scientific
 - [Convert](https://github.com/deanishe/alfred-convert) - Offline conversion of units and (crypto)currencies.
