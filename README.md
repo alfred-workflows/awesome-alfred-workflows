@@ -114,7 +114,7 @@ A curated list of Awesome Alfred Workflows.
 ## Web
 - [BugNot](https://github.com/vitorgalvao/alfred-workflows/tree/master/BugNot) - Get logins from bugmenot.
 - [IncognitoClone](https://github.com/vitorgalvao/alfred-workflows/tree/master/IncognitoClone) - Opens Chrome’s frontmost tab in an incognito window.
-- [Py3 Default Browser](https://github.com/wmorland/alfred-py3-default-browser) - Switches your macOS default web browser from Alfred.
+- [Default Browser](https://github.com/wmorland/alfred-py3-default-browser) - Switch the default web browser.
 - [Reddit](https://github.com/deanishe/alfred-reddit) - Search and browse subreddits and hot posts within Alfred.
 
 ## Helpers
