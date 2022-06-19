@@ -79,7 +79,7 @@ A curated list of Awesome Alfred Workflows.
 - [Todoist](https://github.com/moranje/alfred-workflow-todoist) - Add tasks to Todoist.
 
 ## Miscellaneous
-- [Emoji picker](https://github.com/devnoname120/alfred-emoji-picker) - Blazing-fast emoji input. Replacement for macOS's slow & clunky emoji picker.
+- [Emoji picker](https://github.com/devnoname120/alfred-emoji-picker) - Fast emoji input.
 - [Emoji Snippet Pack](http://joelcalifa.com/blog/alfred-emoji-snippet-pack/) - Snippet Pack for Emojis.
 - [Emoj](https://github.com/sindresorhus/alfred-emoj) - Find relevant emoji from text.
 - [Gitmoji](https://github.com/techouse/alfred-gitmoji) - Search for [Gitmojis](https://gitmoji.dev) easily.
