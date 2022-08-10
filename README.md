@@ -101,6 +101,7 @@ A curated list of Awesome Alfred Workflows.
 ## System
 - [AppFreeze](https://github.com/vitorgalvao/alfred-workflows/tree/master/AppFreeze) - Pauses and resumes execution of the frontmost app.
 - [AppScripts](https://github.com/deanishe/alfred-appscripts) - Search and run JXA/AppleScripts for the active application.
+- [Bluetooth Controller](https://github.com/vegardinho/alfred_bluetooth_controller) - Manage bluetooth status and device connectivity.
 - [Copy Paths to Clipboard](https://github.com/franzheidl/copy-paths-to-clipboard) - Copy Current File Paths to Clipboard as POSIX, HFS, or File URLs.
 - [Finder New item](https://github.com/danielbayley/alfred-finder-new-item) - Swiftly create new items in Finder with support for templates.
 - [Fkill](https://github.com/SamVerschueren/alfred-fkill) - Fabulously search and kill processes.
