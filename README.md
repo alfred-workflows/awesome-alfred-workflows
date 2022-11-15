@@ -122,7 +122,7 @@ A curated list of Awesome Alfred Workflows.
 - [Reddit](https://github.com/deanishe/alfred-reddit) - Search and browse subreddits and hot posts within Alfred.
 
 ## Helpers
-- [Alfred-Workflow](https://github.com/deanishe/alfred-workflow) - Python Library for writing Alfred workflows.
+
 - [Alfred Workflow (for Dart)](https://github.com/techouse/alfred_workflow) - Dart library for writing Alfred workflows. Inspired by [Alfred-Workflow](https://github.com/deanishe/alfred-workflow) for Python.
 - [Alfy](https://github.com/sindresorhus/alfy) - Node.js library to create Alfred workflows with ease.
 - [AwGo](https://github.com/deanishe/awgo) - Full-featured library for Go to build lightning-fast workflows in a jiffy.
