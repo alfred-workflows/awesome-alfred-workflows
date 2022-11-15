@@ -132,7 +132,6 @@ A curated list of Awesome Alfred Workflows.
 ## Other Lists
 Here are a list of other collections of alfred collections which are useful.
 
-- [AlfredWorkflow.com](http://alfredworkflow.com) - List of Alfred Workflows.
 - [Ctwise Alfred Workflows](https://github.com/ctwise/alfred-workflows) - Workflows from the Github user "ctwise".
 - [Packal](http://www.packal.org/) - The biggest place to find Workflows.
 - [PacMax](https://pacmax.org/) – Pacmax was assembled as a way for Alfred lovers to find and share their favorite workflows, snippets, and themes.
