@@ -75,6 +75,7 @@ A curated list of Awesome Alfred Workflows.
 - [Google Calendar View](https://github.com/deanishe/alfred-gcal) - View your Google Calendar events.
 - [I Sheet You Not](https://github.com/deanishe/i-sheet-you-not) - Generate your own workflows from Excel spreadsheets.
 - [iMessage 2FA](https://github.com/squatto/alfred-imessage-2fa) - Find two-factor authentication codes in your recent iMessage messages.
+- [Notion](https://github.com/wrjlewis/notion-search-alfred5-workflow) - Search your Notion workspace.
 - [PDF Tools](https://github.com/xilopaint/alfred-pdf-tools) - Optimize, encrypt and manipulate PDF files.
 - [Things](https://github.com/xilopaint/alfred-things) - Interact with Things 3 using Alfred.
 - [Timing](https://github.com/skibitsky/alfred-timing) - Interact with the [Timing](https://timingapp.com/) app.
