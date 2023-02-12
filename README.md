@@ -128,6 +128,7 @@ A curated list of Awesome Alfred Workflows.
 - [AwGo](https://github.com/deanishe/awgo) - Full-featured library for Go to build lightning-fast workflows in a jiffy.
 - [Fuzzy Search](https://github.com/deanishe/alfred-fuzzy) - Add fuzzy search to any Script Filter.
 - [OneUpdater](https://github.com/vitorgalvao/alfred-workflows/tree/master/OneUpdater) - Minimal Configuration method in adding auto-updating to your workflow.
+- [Ualfred](https://github.com/ischaojie/ualfred) - Python3 library for writing Alfred workflows (based on [Alfred-Workflow](https://github.com/deanishe/alfred-workflow)).
 
 ## Other Lists
 Here are a list of other collections of alfred collections which are useful.
