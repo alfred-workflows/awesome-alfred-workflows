@@ -81,6 +81,7 @@ A curated list of Awesome Alfred Workflows.
 - [Todoist](https://github.com/moranje/alfred-workflow-todoist) - Add tasks to Todoist.
 
 ## Miscellaneous
+- [ChatFred](https://github.com/chrislemke/ChatFred) - Alfred workflow using OpenAI's GPT model for chatting, text completion, etc.
 - [Emoji picker](https://github.com/devnoname120/alfred-emoji-picker) - Fast emoji input.
 - [Emoji Snippet Pack](http://joelcalifa.com/blog/alfred-emoji-snippet-pack/) - Snippet Pack for Emojis.
 - [Emoj](https://github.com/sindresorhus/alfred-emoj) - Find relevant emoji from text.
