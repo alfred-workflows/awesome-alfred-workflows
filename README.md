@@ -112,6 +112,7 @@ A curated list of Awesome Alfred Workflows.
 - [SSH](https://github.com/isometry/alfred-ssh/) - Autocompletes SSH sessions based on `~/.ssh/known_hosts`, `~/.ssh/config` and `/etc/hosts`
 - [SSH iTerm](https://github.com/hanjm/alfred-ssh-iterm-workflow) - Query `~/.ssh/config` and open ssh host with iTerm badge.
 - [Swift Windows Switcher](https://github.com/mandrigin/AlfredSwitchWindows) - Switches between open windows and a browser (Safari/Chrome) tabs.
+- [System Settings](https://github.com/joshuawagner/alfred-system-settings) - Open system settings panes.
 - [TemporaryMute](http://www.packal.org/workflow/temporary-mute) - Mutes the volume of their computer for a specified duration of time.
 - [TerminalFinder](https://github.com/LeEnno/alfred-terminalfinder) - Alfred workflow to open current Finder window in Terminal/iTerm and vice versa.
 
