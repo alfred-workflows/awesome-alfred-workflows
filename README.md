@@ -1,13 +1,8 @@
-<h1 align="center">
-	<img width="594" src="https://cdn.rawgit.com/derimagia/awesome-alfred-workflows/master/media/header.gif" alt="awesome-alfred-workflows">
-	<br>
-</h1>
+# <img src='https://cdn.rawgit.com/derimagia/awesome-alfred-workflows/master/media/header.gif' width='594' align='center' alt='Header gif'>
 
-A curated list of Awesome Alfred Workflows.
-
-[Alfred](https://www.alfredapp.com/) is a productivity app for macOS that boosts your efficiency with hotkeys, keywords and text expansion.
-
-[![Awesome](https://cdn.rawgit.com/sindresorhus/awesome/d7305f38d29fed78fa85652e3a63e154dd8e8829/media/badge.svg)](https://github.com/sindresorhus/awesome)
+> **Warning**<br/>
+> This list is deprecated in favour of [the official Alfred Gallery](https://alfred.app/).<br/>
+> Future submissions should be directed there.
 
 ## Contents
 - [Communication](#communication)
