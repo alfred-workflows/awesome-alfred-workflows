@@ -1,5 +1,3 @@
-# <img src='https://cdn.rawgit.com/derimagia/awesome-alfred-workflows/master/media/header.gif' width='594' align='center' alt='Header gif'>
-
 > **Warning**<br/>
 > This list is deprecated in favour of [the official Alfred Gallery](https://alfred.app/).<br/>
 > Future submissions should be directed there.
