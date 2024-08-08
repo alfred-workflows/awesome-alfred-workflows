@@ -1,5 +1,5 @@
-> **Warning**<br/>
-> This list is deprecated in favour of [the official Alfred Gallery](https://alfred.app/).<br/>
+> [!WARNING]
+> This list is deprecated in favour of [the official Alfred Gallery](https://alfred.app/).
 > Future submissions should be directed there.
 
 ## Contents
